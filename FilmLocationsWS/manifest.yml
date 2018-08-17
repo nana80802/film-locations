@@ -1,0 +1,6 @@
+﻿applications:
+  - name: FilmLocationsWS
+    host: flws
+    memory: 256M
+    path: target/FilmLocations-0.0.1-SNAPSHOT.war
+    buildpack: java_buildpack

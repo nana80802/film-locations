@@ -1,0 +1,20 @@
+19:01:12.250 INFO [a.f.l.u.DataManagerTest]  Starting DataManagerTest on AMMAN with PID 7200 (started by abunaimb74cs in C:\Users\abunaimb74cs\work\projects\intellij\FilmLocations\FilmLocations)
+19:01:12.250 DEBUG [a.f.l.u.DataManagerTest]  Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+19:01:12.250 INFO [a.f.l.u.DataManagerTest]  No active profile set, falling back to default profiles: default
+19:01:15.389 INFO [a.f.l.u.DataManagerTest]  Started DataManagerTest in 3.443 seconds (JVM running for 5.702)
+19:01:15.486 INFO [a.f.l.u.DataManager]  Loading films from the dataset file
+19:03:29.029 INFO [a.f.l.u.DataManagerTest]  Starting DataManagerTest on AMMAN with PID 17632 (started by abunaimb74cs in C:\Users\abunaimb74cs\work\projects\intellij\FilmLocations\FilmLocations)
+19:03:29.029 DEBUG [a.f.l.u.DataManagerTest]  Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+19:03:29.036 INFO [a.f.l.u.DataManagerTest]  No active profile set, falling back to default profiles: default
+19:03:31.352 INFO [a.f.l.u.DataManagerTest]  Started DataManagerTest in 2.814 seconds (JVM running for 4.891)
+19:03:31.454 INFO [a.f.l.u.DataManager]  Loading films from the dataset file
+19:04:07.074 INFO [a.f.l.u.DataManagerTest]  Starting DataManagerTest on AMMAN with PID 10860 (started by abunaimb74cs in C:\Users\abunaimb74cs\work\projects\intellij\FilmLocations\FilmLocations)
+19:04:07.077 DEBUG [a.f.l.u.DataManagerTest]  Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+19:04:07.079 INFO [a.f.l.u.DataManagerTest]  No active profile set, falling back to default profiles: default
+19:04:09.397 INFO [a.f.l.u.DataManagerTest]  Started DataManagerTest in 2.879 seconds (JVM running for 4.237)
+19:04:09.505 INFO [a.f.l.u.DataManager]  Loading films from the dataset file
+19:04:23.517 INFO [a.f.l.u.DataManagerTest]  Starting DataManagerTest on AMMAN with PID 14508 (started by abunaimb74cs in C:\Users\abunaimb74cs\work\projects\intellij\FilmLocations\FilmLocations)
+19:04:23.521 DEBUG [a.f.l.u.DataManagerTest]  Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+19:04:23.523 INFO [a.f.l.u.DataManagerTest]  No active profile set, falling back to default profiles: default
+19:04:26.290 INFO [a.f.l.u.DataManagerTest]  Started DataManagerTest in 3.301 seconds (JVM running for 4.708)
+19:04:26.488 INFO [a.f.l.u.DataManager]  Loading films from the dataset file
