@@ -63,3 +63,85 @@ Response (FilmDto list)
   }
 ]
 
+3.	Service 3
+API: https://filmlocations.herokuapp.com/buildings
+
+HTTP-Method: GET
+Response-Type: application/json
+Parameters: no parameters
+Returns: Buildings list
+
+4.	Service 4
+API: https://filmlocations.herokuapp.com/buildingsByName?name=building
+HTTP-Method: GET
+Response-Type: application/json
+Parameters:
+1.	name: String
+If empty a list of all buildings will be returned
+Returns: Buildings list
+
+{
+   "buildings":[
+      {
+         "department":"Building Inspection",
+         "sourceType":"CNG",
+         "co2Emission":11.79717391
+      },
+      {
+         "department":"Building Inspection",
+         "sourceType":"Gasoline",
+         "co2Emission":22.317146247
+      },
+      {
+         "department":"Building Inspection",
+         "sourceType":"CNG",
+         "co2Emission":12.31040348
+      },
+      {
+         "department":"Building Inspection",
+         "sourceType":"Gasoline",
+         "co2Emission":21.74465868
+      },
+      {
+         "department":"Building Inspection",
+         "sourceType":"CNG",
+         "co2Emission":12.78167243
+      },
+      {
+         "department":"Building Inspection",
+         "sourceType":"Gasoline",
+         "co2Emission":24.839501533
+      },
+      {
+         "department":"Building Inspection",
+         "sourceType":"CNG",
+         "co2Emission":13.15054268
+      },
+      {
+         "department":"Building Inspection",
+         "sourceType":"Gasoline",
+         "co2Emission":25.05485738
+      },
+      {
+         "department":"Building Inspection",
+         "sourceType":"Natural Gas",
+         "co2Emission":39.269074036
+      },
+      {
+         "department":"Building Inspection",
+         "sourceType":"Natural Gas",
+         "co2Emission":25.506680782
+      },
+      {
+         "department":"Building Inspection",
+         "sourceType":"Natural Gas",
+         "co2Emission":60.703103243
+      },
+      {
+         "department":"Building Inspection",
+         "sourceType":"Natural Gas",
+         "co2Emission":53.179419977
+      }
+   ]
+}
+
